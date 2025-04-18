@@ -64,7 +64,7 @@ With a blend of **mathematics**, **data science**, and **project management**, I
 
 Want to collaborate, chat, or explore a wild new AI idea?
 
-Reach out via [LinkedIn](https://linkedin.com/in/chantal-ojurongbe-231b56139linkedin.com/)  
+Reach out via [LinkedIn](https://linkedin.com/in/chantal-ojurongbe-231b56139/)  
 Or drop into one of my projects — the PRs are always warm.
 
 ---
