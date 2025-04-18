@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I’m <code>Chantal-Ojurongbe</code></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7EF7D7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+AI+Engineer+%7C+STEM+Mentor;Grid+Optimizer+%7C+Blockchain+Analyzer+%7C+Pythonista;Solving+Real+Problems+with+Real+Data+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7EF7D7&center=true&vCenter=true&width=635&lines=Data+Scientist+%7C+AI+Engineer+%7C+STEM+Mentor;Grid+Optimizer+%7C+Blockchain+Analyzer+%7C+Pythonista;Solving+Real+Problems+with+Real+Data+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
