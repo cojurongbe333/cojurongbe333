@@ -71,11 +71,7 @@ Or drop into one of my projects — the PRs are always warm.
 
 > **“When in doubt, forecast it. Then explain it with SHAP.”** 
 
-## 📫 Let’s Connect!
-
 Feel free to explore my repos, ask questions, or connect with me on projects or collabs. Whether it’s powering the future, decoding crypto, or mentoring the next gen — I’m always up for a great conversation.
-
----
 
 > *“Solving real problems with real data — and having real fun along the way.”*
 
