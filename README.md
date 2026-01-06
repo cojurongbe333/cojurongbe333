@@ -10,9 +10,9 @@
 
 ## 🧠 About Me
 
-**Data Scientist | AI Architect | Project Strategist | STEM Educator**
+**Data Scientist | AI Architect | Project Strategist | STEM Educator | Statistician**
 
-With a blend of **mathematics**, **data science**, and **project management**, I transform chaotic datasets into smart, scalable systems. I’m passionate about creating tech that *thinks*, teaches that *inspires*, and systems that *deliver*.
+With a blend of **mathematics**, **data science**, **statistics** and **project management**, I transform chaotic datasets into smart, scalable systems. I’m passionate about creating tech that *thinks*, teaches that *inspires*, and systems that *deliver*.
 
 ---
 
@@ -58,7 +58,7 @@ With a blend of **mathematics**, **data science**, and **project management**, I
 - I mix **mathematical elegance** with **real-world chaos**
 - I love **visualizing time series** almost as much as forecasting them
 - My dashboards don’t just inform — they **influence decisions**
-- In another life, I’d probably be building AI for space exploration (or baking code-themed cookies)
+- I enjoy cranking out **statistical anaylsis** for student research projects
 
 ---
 
