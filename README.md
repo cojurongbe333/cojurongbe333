@@ -33,21 +33,23 @@ With a blend of **mathematics**, **data science**, and **project management**, I
 
 ## 🚀 Current Projects
 
-- **ChainPulseAI** – Blockchain anomaly detection + sentiment tracking
 - **RenewGrid** – Forecasting & optimizing battery, solar, and wind storage
-- **BTC Forecast Lab** – Deep learning for crypto price prediction (hourly + daily)
-- **Data Science Portfolio** – NLP, predictive analytics, ETL pipelines & dashboards
+- **Microgrid Simulator** – Simulates critical-load coverage under outages with batteries, generators, DER, and load-shedding logic
+- **Power Grid Attack/Failure Robustness Toolkit** – A reusable toolkit that loads a grid graph and runs targeted node removal, islanding impacts, random failures and recovery strategies
+- **Battery Degradation + Cycling Cost Model for Dispatch Optimization** – A model that converts cycling patterns into degradation cost (approx) and optimizes dispatch to minimize blackout risk + cycling cost.
+- **Forecasting & Anomaly Detection for Load / Generation / SoC** – A forecasting suite for energy time series (load, PV, wind, SoC), plus anomaly detection to flag sensor/operational issues.
+- **Interconnection Process Mining & Bottleneck Analyzer** – Model the interconnection process as an event log and analyze cycle time, rework loops, and queue delays. 
 
 ---
 
 ## 🛠️ Tech Toolbox
 
-**Languages**: Python, R, SQL  
+**Languages**: **Python**, **R**, SQL  
 **ML/AI**: XGBoost, LightGBM, TensorFlow, PyTorch, Prophet, SHAP  
 **Tools**: Docker, Streamlit, FastAPI, Airflow, Power BI, GitHub Actions  
 **Data Viz**: matplotlib, seaborn, Plotly, Tableau, Altair  
 **Clouds**: AWS, Azure, GCP  
-**Other**: Jupyter, RStudio, Git, Excel (yes, still a powerhouse!)
+**Other**: Excel (yes, still a powerhouse!)
 
 ---
 
