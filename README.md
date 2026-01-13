@@ -81,14 +81,4 @@ Thanks for stopping by!
 
 ---
 
-Views
-
-<a href="https://www.youtube.com/watch?v=ZxZ1I1yTCUI&ab_channel=Joshwin"> 
-<img src="https://profile-counter.glitch.me/cojurongbe333/count.svg" alt="0vm" />
-</a>
-
-<!---
-cojurongbe333/cojurongbe333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
