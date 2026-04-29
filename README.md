@@ -3,16 +3,16 @@
 <h1 align="center">Hi, I’m <code>Chantal-Ojurongbe</code></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7EF7D7&center=true&vCenter=true&width=635&lines=Data+Scientist+%7C+AI+Engineer+%7C+STEM+Mentor;Grid+Optimizer+%7C+Blockchain+Analyzer+%7C+Pythonista;Solving+Real+Problems+with+Real+Data+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7EF7D7&center=true&vCenter=true&width=635&lines=Backend+Developer+%7C+Data+Scientist+%7C+AI+Engineer+%7C+;Grid+Optimizer+%7C+Blockchain+Analyzer+%7C+Pythonista;Solving+Real+Problems+with+Real+Data+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-**Data Scientist | AI Architect | Project Strategist | STEM Educator | Statistician**
+**Python Backend Developer | Data Scientist | AI Architect | Project Strategist | Statistician**
 
-With a blend of **mathematics**, **data science**, **statistics** and **project management**, I transform chaotic datasets into smart, scalable systems. I’m passionate about creating tech that *thinks*, teaches that *inspires*, and systems that *deliver*.
+I build Python-based backend systems, APIs, data pipelines, and ML-powered applications. My work combines FastAPI, SQL, Docker, machine learning, forecasting, and applied analytics to turn complex data into usable technical products. With a blend of **mathematics**, **data science**, **statistics** and **project management**, I transform chaotic datasets into smart, scalable systems. I’m passionate about creating tech that *thinks*, teaches that *inspires*, and systems that *deliver*.
 
 ---
 
